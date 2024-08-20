@@ -1,8 +1,16 @@
-## Boas vindas ao meu perfil 👋
+## Boas vindas ao meu perfil... 👋
 
 Meu nome é Marcelo Henrique
 
 - No momento estou estudando na **Alura**
+
+- Estou cursando inglês na **Wizard**
+
+- Pretendo fazer intercâmbio
+
+- Estudo também sobre Finanças
+
+- Meu Projeto de Vida é ser um NeuroCirurgião
 
 - Estou estudando e apurando minha linguagem de JavaScript
 
